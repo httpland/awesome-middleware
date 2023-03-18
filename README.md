@@ -1,4 +1,4 @@
-# awesome-middleware
+# Awesome Middleware [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 Curated list of middleware resources.
 
