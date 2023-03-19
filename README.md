@@ -4,9 +4,10 @@ Curated list of middleware resources.
 
 ## Middleware
 
-| Project Name                                                   | Effect                                                              |
-| -------------------------------------------------------------- | ------------------------------------------------------------------- |
-| [hsts-middleware](https://github.com/httpland/hsts-middleware) | [Strict-Transport-Security](https://www.rfc-editor.org/rfc/rfc6797) |
+| Name                                                                         | Description                                     | Target                                                                                       |
+| ---------------------------------------------------------------------------- | ----------------------------------------------- | -------------------------------------------------------------------------------------------- |
+| [hsts-middleware](https://github.com/httpland/hsts-middleware)               | HTTP Strict Transport Security(HSTS) middleware | [Strict-Transport-Security](https://www.rfc-editor.org/rfc/rfc6797)                          |
+| [compression-middleware](https://github.com/httpland/compression-middleware) | HTTP compression middleware                     | <ul><li>HTTP Content</li><li> Content-Encoding</li><li>Vary</li><li>Content-Length</li></ul> |
 
 ## License
 
