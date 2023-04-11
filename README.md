@@ -14,6 +14,9 @@ Curated list of middleware resources.
 | [xcto-middleware](https://github.com/httpland/xcto-middleware)                               | HTTP XCTO(X-Content-Type-Options) middleware       | X-Content-Type-Options                                                                                                                                       |
 | [corp-middleware](https://github.com/httpland/corp-middleware)                               | HTTP cross-origin resource policy(CORP) middleware | Cross-Origin-Resource-Policy                                                                                                                                 |
 | [referrer-policy-middleware](https://github.com/httpland/referrer-policy-middleware)         | HTTP referrer policy middleware                    | Referrer-Policy                                                                                                                                              |
+| [coep-middleware](https://github.com/httpland/coep-middleware)                               | HTTP cross-origin embedder policy(COEP) middleware | <ul><li>Cross-Origin-Embedder-Policy</li><li>Cross-Origin-Embedder-Policy-Report-Only</li></ul>                                                              |
+| [coop-middleware](https://github.com/httpland/coop-middleware)                               | HTTP cross-origin opener policy(COOP) middleware   | <ul><li>Cross-Origin-Opener-Policy</li><li>Cross-Origin-Opener-Policy-Report-Only</li></ul>                                                                  |
+| [csp-middleware](https://github.com/httpland/csp-middleware)                                 | HTTP content security policy(CSP) middleware       | <ul><li>Content-Security-Policy</li><li>Content-Security-Policy-Report-Only</li></ul>                                                                        |
 
 ## License
 
